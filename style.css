@@ -1,0 +1,11 @@
+p{
+    color: black;
+}
+
+.box{
+    display: flex;
+    
+    /* background-color: red; */
+    /* padding: 30px; */
+    /* margin: 10px; */
+}
